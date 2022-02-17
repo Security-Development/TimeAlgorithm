@@ -1,5 +1,3 @@
-#define _WIN32_WINNT_WIN10 
-
 #include <stdio.h>
 #include <windows.h>
 
